@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1704791837 source:c:\users\cody\desktop\hextodec\hextodec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+
+1704953994 source:c:\users\cody\desktop\codes\hextodec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+
